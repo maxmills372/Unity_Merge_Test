@@ -209,7 +209,7 @@ GameObject:
   - component: {fileID: 873647464}
   - component: {fileID: 873647463}
   m_Layer: 0
-  m_Name: Max's_Cylinder
+  m_Name: Max's_Better_Cylinder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
